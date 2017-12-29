@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JsonHelper:jar">
+    <output-path>$PROJECT_DIR$/JsonHelper_jar</output-path>
+    <root id="archive" name="JsonHelper.jar">
+      <element id="module-output" name="JsonHelper" />
+    </root>
+  </artifact>
+</component>
